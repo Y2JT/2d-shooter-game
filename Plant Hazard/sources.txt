@@ -1,0 +1,32 @@
+sounds:
+https://www.assetstore.unity3d.com/en/#!/content/32834
+
+carnivorous plant:
+https://opengameart.org/content/carnivorous-plant-high-poly
+
+platforms:
+http://rachelgauci.global2.vic.edu.au/files/2014/08/platforms-1v2d209.png
+
+player:
+http://rachelgauci.global2.vic.edu.au/files/2014/08/player-zz99xc.png
+
+shot:
+http://rachelgauci.global2.vic.edu.au/files/2014/08/shot-12iowee.png
+
+enemy shot:
+http://rachelgauci.global2.vic.edu.au/files/2014/08/shot_poulpi-2eowu1r.png
+
+scene1_gameover background image:
+http://img11.deviantart.net/07e2/i/2012/363/7/2/murky_swamp_by_thephoenixdark-d5pjiz6.png
+
+scene2_Level1Playing & scene3_Level2Playing background image:
+https://cdna.artstation.com/p/assets/covers/images/001/361/398/large/giao-nguyen-swamp.jpg?1445084950
+
+scene0_welcome background image:
+http://img00.deviantart.net/b2b7/i/2012/182/e/c/enchanted_woods_by_jjpeabody-d55je7q.jpg
+
+scene4_gamewin background image:
+https://s-media-cache-ak0.pinimg.com/originals/18/d9/65/18d965d10550493bf8536bb3cd114504.png
+
+font:
+http://snakeyboy.deviantart.com/art/Biohazard-Resident-Evil-Game-Font-version-8-00-522264973
